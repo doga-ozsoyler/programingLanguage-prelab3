@@ -1,0 +1,14 @@
+if x<z:
+	if y<z:
+		aa=z*x-y
+		bb=result/2
+	else:
+		cc=z*x+y
+		dd=result/2
+		if result>y:
+			ee=result/x
+	ff=x*2
+elif y<x:
+	gg=z
+else:
+	hh=z*x*x*y
